@@ -12,8 +12,13 @@ End-to-end UPI payments analytics: Excel, SQL, Python EDA, Statistical testing, 
 - **Merchant type:** No significant fraud-rate differences (ANOVA p = 0.686, η² = 0.006).
 - **Operational baseline:** 92.14% success · 5.87% failure · 1.99% pending · 1.45% reversal.
 
-## 📁 Repository Structure
-(link to each folder with one-line descriptions)
+## 📦 Dataset & External Assets
+The full validated dataset and large media files are hosted externally due to GitHub's file size limits.
+
+| Asset | Size | Link |
+|---|---|---|
+| Validated Excel Workbook (`UPI_cleaned_KS.xlsx`) | ~XXX MB | [Download from Google Drive]: https://drive.google.com/drive/folders/1tUMbA_UdjGGiG_YGN1KB_bCGyVwcDJq-?usp=drive_link |
+| 3D Visualization Videos (full resolution) | ~XXX MB | [Watch on Google Drive] https://drive.google.com/file/d/1gSklFyZNE_wzfjvaarWhDV_RJAPKPH33/view?usp=drive_link |  https://drive.google.com/file/d/1M-ySZmWKVO1YMDtEKOM5C5rGVZIE_2L9/view?usp=drive_link
 
 ## 🔍 Investigation Workflow
 Signal → Segment → Drill Through → Investigate → Act
@@ -25,17 +30,6 @@ Signal → Segment → Drill Through → Investigate → Act
 - [SQL Schema & Queries](03_SQL/)
 - [3D Visualizations](04_Python/3D_Visualizations/)
 - [Business Planning Deck](01_Business_Understanding/)
-
-
-## 📦 Dataset & External Assets
-
-The full validated dataset and large media files are hosted externally due to GitHub's file size limits.
-
-| Asset | Size | Link |
-|---|---|---|
-| Validated Excel Workbook (`UPI_cleaned_KS.xlsx`) | ~XXX MB | [Download from Google Drive]: https://drive.google.com/drive/folders/1tUMbA_UdjGGiG_YGN1KB_bCGyVwcDJq-?usp=drive_link |
-| 3D Visualization Videos (full resolution) | ~XXX MB | [Watch on Google Drive] https://drive.google.com/file/d/1gSklFyZNE_wzfjvaarWhDV_RJAPKPH33/view?usp=drive_link |  https://drive.google.com/file/d/1M-ySZmWKVO1YMDtEKOM5C5rGVZIE_2L9/view?usp=drive_link
-
 
 upi-digital-payments-analytics/
 ├── 01_Business_Understanding/

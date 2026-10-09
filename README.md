@@ -24,12 +24,12 @@ The full validated dataset and large media files are hosted externally due to Gi
 Signal → Segment → Drill Through → Investigate → Act
 
 ## 📊 Deliverables
-- [Executive Report](06_Executive_Report/UPI_Executive_Report.pdf)
-- [Power BI Dashboard](05_Power_BI/UPI_Transaction_Analytics.pbix)
-- [Python Notebook](04_Python/UPI_Transaction_Analysis.ipynb)
-- [SQL Schema & Queries](03_SQL/)
-- [3D Visualizations](04_Python/3D_Visualizations/)
-- [Business Planning Deck](01_Business_Understanding/)
+- [Executive Report]
+- [Power BI Dashboard]
+- [Python Notebook]
+- [SQL Schema & Queries]
+- [3D Visualizations]
+- [Business Planning Deck]
 
 upi-digital-payments-analytics/
 ├── 01_Business_Understanding/
